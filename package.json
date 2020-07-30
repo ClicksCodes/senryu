@@ -1,17 +1,29 @@
 {
   "name": "@clicksminuteper/senryu",
   "version": "0.0.1",
-  "description": "discord bot utilities for bot owners",
+  "description": "Bot utilities for discord bot devs",
   "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClicksMinutePer/Senryu.git"
+  },
   "keywords": [
     "senryu",
+    "sen",
     "jishaku",
-    "jsk",
-    "sen"
+    "jsk"
   ],
   "author": "Samuel Shuert",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClicksMinutePer/Senryu/issues"
+  },
+  "homepage": "https://github.com/ClicksMinutePer/Senryu#readme"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "@clicksminuteper/senryu",
+  "version": "0.0.1",
+  "description": "discord bot utilities for bot owners",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "senryu",
+    "jishaku",
+    "jsk",
+    "sen"
+  ],
+  "author": "Samuel Shuert",
+  "license": "ISC"
+}

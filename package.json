@@ -2,7 +2,7 @@
   "name": "@clicksminuteper/senryu",
   "version": "0.0.1",
   "description": "Bot utilities for discord bot devs",
-  "main": "main.js",
+  "main": "src/main.js",
   "dependencies": {
     "discord.js": "^12.2.0"
   },

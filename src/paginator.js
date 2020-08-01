@@ -1,7 +1,7 @@
-const Jshaku = require('./jshaku');
+const Senryu = require('./senryu');
 const Discord = require('discord.js');
 
-class Paginator extends Jshaku {
+class Paginator extends Senryu {
     constructor(prefix="```js\n", suffix="```") {
         this.pages = []
         this.autoPage = {

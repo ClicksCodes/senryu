@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">/snap/dotnet-sdk/current/sdk/5.0.103/MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">/snap/dotnet-sdk/current/dotnet</s:String>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=cbbd1c48_002D96b6_002D41af_002Dbda8_002D04ec545a0a66_0023ExampleBot/@EntryIndexedValue">True</s:Boolean>
+	
+	
+	
+	</wpf:ResourceDictionary>

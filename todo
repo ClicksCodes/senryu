@@ -1,0 +1,18 @@
+- [ ] Pagination
+- [ ]  \_ '/jump {place}' command
+- [ ] A good way of creating embeds
+- [ ] A good way of creating menus
+- [ ] A good way of waiting for slash commands to run
+- [ ] A good way of waiting for input (slash commands?)
+- [ ]  \_ Wait for channel
+- [ ]    \_ Wait for text channel
+- [ ]    \_ Wait for voice channel
+- [ ]    \_ Wait for stage channel
+- [ ]  \_ Wait for text
+- [ ]  \_ Wait for user
+- [ ]  \_ Wait for number
+- [ ] QOL methods
+- [ ]  \_ Validation methods (for those times you don't want to remember the regex)
+- [ ]    \_ URL validation
+- [ ]    \_ Email validation
+- [x]  \_ Sorting

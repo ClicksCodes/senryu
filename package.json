@@ -4,9 +4,9 @@
   "description": "Bot utilities for discord bot devs",
   "main": "src/main.js",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.5.3",
+    "typescript": "^4.5.2"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,10 +20,13 @@
     "jishaku",
     "jsk"
   ],
-  "author": "Samuel Shuert",
+  "author": "Clicks Minute Per",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ClicksMinutePer/Senryu/issues"
   },
-  "homepage": "https://github.com/ClicksMinutePer/Senryu#readme"
+  "homepage": "https://github.com/ClicksMinutePer/Senryu#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.12"
+  }
 }
